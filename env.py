@@ -1,0 +1,6 @@
+EMAIL_ID='depprojcsece20@gmail.com'
+OTP_URL='https://script.google.com/macros/s/AKfycbx10ufHxvAHbl97_Vjb9-alILtgm-HJ8IYrZX-4g04RfgAKVxOKlLzve5-2DelXZdZw/exec'
+REMINDER_URL='https://script.google.com/macros/s/AKfycbz-6CsoX7wt1WXtADgqpmq6aTzNgcI5vzRnB6lEF9aAQn6DU-dKeODScqdX-X_ybCu2hw/exec'
+# EMAIL_ID='2021csb1120@iitrpr.ac.in'
+# OTP_URL='https://script.google.com/a/macros/iitrpr.ac.in/s/AKfycbzndqicyM8RuSu3dy2ydCfNCSXmd1MynDMbnFMskF1ujKRhGHtdLdZKwkl7PI88Huw9/exec'
+# REMINDER_URL='https://script.google.com/a/macros/iitrpr.ac.in/s/AKfycbzLsfuaFcZt02gQL3rrgRdhU_al2z2Z3jC5B-N6jCTiWwrz46FCf5Ejav_BB5kSbz5P/exec'
